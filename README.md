@@ -3,7 +3,7 @@ Informational Badges:
 [![PyPI version](https://badge.fury.io/py/calculator_pkg_ex_ebh.svg)](https://badge.fury.io/py/calculator_pkg_ex_ebh)
 ![PyPy](https://img.shields.io/badge/PyPy-7.3.17-blue)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/calculator_pkg_ex_ebh)](https://pypi.org/project/calculator_pkg_ex_ebh/)
-![Tests](https://github.com/jfuruness/calculator_pkg_ex_ebh/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/ehowells/calculator_pkg_ex_ebh/actions/workflows/tests.yml/badge.svg)
 ![Linux](https://img.shields.io/badge/os-Linux-blue.svg)
 ![macOS Intel](https://img.shields.io/badge/os-macOS_Intel-lightgrey.svg)
 ![macOS ARM](https://img.shields.io/badge/os-macOS_ARM-lightgrey.svg)
@@ -20,7 +20,7 @@ Some Linting Badges (Where I could find them):
 # calculator\_pkg\_ex
 
 
-### If you like the repo, it would be awesome if you could add a star to it! It really helps out the visibility. Also for any questions at all we'd love to hear from you at jfuruness@gmail.com
+### If you like the repo, it would be awesome if you could add a star to it! It really helps out the visibility. Also for any questions at all we'd love to hear from you at ellistonhowells@gmail.com
 
 * [Description](#package-description)
 * [Usage](#usage)
@@ -66,7 +66,7 @@ This will install the package and all of it's python dependencies.
 
 If you want to install the project for development:
 ```bash
-git clone https://github.com/jfuruness/calculator_pkg_ex_ebh.git
+git clone https://github.com/ehowells/calculator_pkg_ex_ebh.git
 cd calculator_pkg_ex_ebh
 pip3 install -e .[test]
 pre-commit install
